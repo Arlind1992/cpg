@@ -1,0 +1,15 @@
+float32 major_ax
+float32 minor_ax
+float32 coup_strength
+float32 limit_cycle
+float32 forward_velocity
+float32 curvature
+float64[] x_offset
+float64[] y_offset
+int32[] coupling_1
+int32[] coupling_2
+int32[] coupling_3
+int32[] coupling_4
+int32[] coupling_5
+int32[] coupling_6
+---

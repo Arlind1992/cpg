@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cpg")
+set(cpg_MAINTAINER "viki <viki@todo.todo>")
+set(cpg_DEPRECATED "")
+set(cpg_VERSION "1.0.0")
+set(cpg_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "geometry_msgs")
+set(cpg_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime" "geometry_msgs")
+set(cpg_BUILDTOOL_DEPENDS "catkin")

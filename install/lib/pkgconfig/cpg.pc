@@ -1,0 +1,8 @@
+prefix=/home/viki/Desktop/CPG/install
+
+Name: cpg
+Description: Description of cpg
+Version: 1.0.0
+Cflags: -I/home/viki/Desktop/CPG/install/include
+Libs: -L/home/viki/Desktop/CPG/install/lib 
+Requires: geometry_msgs roscpp std_msgs message_runtime
